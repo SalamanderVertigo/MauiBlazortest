@@ -724,16 +724,16 @@
     <AppxPackagedFile Include="C:\Users\jonmg\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.26\lib\WinRT.Runtime.dll">
       <PackagePath>WinRT.Runtime.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jonmg\.nuget\packages\microsoft.aspnetcore.authorization\6.0.7\lib\net6.0\Microsoft.AspNetCore.Authorization.dll">
+    <AppxPackagedFile Include="C:\Users\jonmg\.nuget\packages\microsoft.aspnetcore.authorization\6.0.8\lib\net6.0\Microsoft.AspNetCore.Authorization.dll">
       <PackagePath>Microsoft.AspNetCore.Authorization.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jonmg\.nuget\packages\microsoft.aspnetcore.components\6.0.7\lib\net6.0\Microsoft.AspNetCore.Components.dll">
+    <AppxPackagedFile Include="C:\Users\jonmg\.nuget\packages\microsoft.aspnetcore.components\6.0.8\lib\net6.0\Microsoft.AspNetCore.Components.dll">
       <PackagePath>Microsoft.AspNetCore.Components.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jonmg\.nuget\packages\microsoft.aspnetcore.components.forms\6.0.7\lib\net6.0\Microsoft.AspNetCore.Components.Forms.dll">
+    <AppxPackagedFile Include="C:\Users\jonmg\.nuget\packages\microsoft.aspnetcore.components.forms\6.0.8\lib\net6.0\Microsoft.AspNetCore.Components.Forms.dll">
       <PackagePath>Microsoft.AspNetCore.Components.Forms.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jonmg\.nuget\packages\microsoft.aspnetcore.components.web\6.0.7\lib\net6.0\Microsoft.AspNetCore.Components.Web.dll">
+    <AppxPackagedFile Include="C:\Users\jonmg\.nuget\packages\microsoft.aspnetcore.components.web\6.0.8\lib\net6.0\Microsoft.AspNetCore.Components.Web.dll">
       <PackagePath>Microsoft.AspNetCore.Components.Web.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jonmg\.nuget\packages\microsoft.aspnetcore.components.webview\6.0.7\lib\net6.0\Microsoft.AspNetCore.Components.WebView.dll">
@@ -742,7 +742,7 @@
     <AppxPackagedFile Include="C:\Users\jonmg\.nuget\packages\microsoft.aspnetcore.components.webview.maui\6.0.486\lib\net6.0-windows10.0.19041\Microsoft.AspNetCore.Components.WebView.Maui.dll">
       <PackagePath>Microsoft.AspNetCore.Components.WebView.Maui.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jonmg\.nuget\packages\microsoft.aspnetcore.metadata\6.0.7\lib\net6.0\Microsoft.AspNetCore.Metadata.dll">
+    <AppxPackagedFile Include="C:\Users\jonmg\.nuget\packages\microsoft.aspnetcore.metadata\6.0.8\lib\net6.0\Microsoft.AspNetCore.Metadata.dll">
       <PackagePath>Microsoft.AspNetCore.Metadata.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jonmg\.nuget\packages\microsoft.extensions.configuration\6.0.1\lib\netstandard2.0\Microsoft.Extensions.Configuration.dll">
@@ -796,7 +796,7 @@
     <AppxPackagedFile Include="C:\Users\jonmg\.nuget\packages\microsoft.graphics.win2d\1.0.3.1\lib\net5.0-windows10.0.18362.0\Microsoft.Graphics.Canvas.Interop.dll">
       <PackagePath>Microsoft.Graphics.Canvas.Interop.dll</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jonmg\.nuget\packages\microsoft.jsinterop\6.0.7\lib\net6.0\Microsoft.JSInterop.dll">
+    <AppxPackagedFile Include="C:\Users\jonmg\.nuget\packages\microsoft.jsinterop\6.0.8\lib\net6.0\Microsoft.JSInterop.dll">
       <PackagePath>Microsoft.JSInterop.dll</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jonmg\.nuget\packages\microsoft.maui.graphics\6.0.403\lib\net6.0-windows10.0.18362\Microsoft.Maui.Graphics.dll">
@@ -841,6 +841,9 @@
     <AppxPackagedFile Include="C:\Users\jonmg\.nuget\packages\mudblazor\6.0.14\lib\net6.0\MudBlazor.dll">
       <PackagePath>MudBlazor.dll</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jonmg\.nuget\packages\salamanderblazor\1.0.0\lib\net6.0\SalamanderBlazor.dll">
+      <PackagePath>SalamanderBlazor.dll</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jonmg\.nuget\packages\system.io.pipelines\6.0.3\lib\net6.0\System.IO.Pipelines.dll">
       <PackagePath>System.IO.Pipelines.dll</PackagePath>
     </AppxPackagedFile>
@@ -870,6 +873,15 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jonmg\.nuget\packages\mudblazor\6.0.14\staticwebassets\MudBlazor.min.js">
       <PackagePath>wwwroot\_content\MudBlazor\MudBlazor.min.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jonmg\.nuget\packages\salamanderblazor\1.0.0\staticwebassets\background.png">
+      <PackagePath>wwwroot\_content\SalamanderBlazor\background.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jonmg\.nuget\packages\salamanderblazor\1.0.0\staticwebassets\exampleJsInterop.js">
+      <PackagePath>wwwroot\_content\SalamanderBlazor\exampleJsInterop.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jonmg\.nuget\packages\salamanderblazor\1.0.0\staticwebassets\SalamanderBlazor.bundle.scp.css">
+      <PackagePath>wwwroot\_content\SalamanderBlazor\SalamanderBlazor.bundle.scp.css</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jonmg\projects\.net projets\MauiBlazor\MauiBlazorTest\MauiBlazorTest\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\scopedcss\bundle\MauiBlazorTest.styles.css">
       <PackagePath>wwwroot\MauiBlazorTest.styles.css</PackagePath>
@@ -1044,6 +1056,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jonmg\projects\.net projets\MauiBlazor\MauiBlazorTest\MauiBlazorTest\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jonmg\.nuget\packages\salamanderblazor\1.0.0\contentFiles\any\net6.0\NuGet.Config">
+      <PackagePath>NuGet.Config</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jonmg\projects\.net projets\MauiBlazor\MauiBlazorTest\MauiBlazorTest\Shared\MainLayout.razor.css">
       <PackagePath>Shared\MainLayout.razor.css</PackagePath>

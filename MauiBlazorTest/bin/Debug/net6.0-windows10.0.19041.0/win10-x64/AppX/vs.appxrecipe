@@ -29,25 +29,25 @@
     <AppXManifest Include="C:\Users\jonmg\projects\.net projets\MauiBlazor\MauiBlazorTest\MauiBlazorTest\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-08-15T18:52:57.619</Modified>
+      <Modified>2022-08-17T22:53:27.097</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\jonmg\projects\.net projets\MauiBlazor\MauiBlazorTest\MauiBlazorTest\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2022-08-15T18:38:56.447</Modified>
+      <Modified>2022-08-17T22:53:26.652</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jonmg\projects\.net projets\MauiBlazor\MauiBlazorTest\MauiBlazorTest\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\MauiBlazorTest.runtimeconfig.json">
       <PackagePath>MauiBlazorTest.runtimeconfig.json</PackagePath>
-      <Modified>2022-08-15T18:34:14.090</Modified>
+      <Modified>2022-08-17T22:53:26.428</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jonmg\projects\.net projets\MauiBlazor\MauiBlazorTest\MauiBlazorTest\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\MauiBlazorTest.dll">
       <PackagePath>MauiBlazorTest.dll</PackagePath>
-      <Modified>2022-08-15T18:52:56.607</Modified>
+      <Modified>2022-08-17T22:53:25.380</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jonmg\projects\.net projets\MauiBlazor\MauiBlazorTest\MauiBlazorTest\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>MauiBlazorTest.exe</PackagePath>
-      <Modified>2022-08-15T18:52:56.623</Modified>
+      <Modified>2022-08-17T22:53:25.400</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jonmg\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.8\runtimes\win-x64\lib\net6.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -965,21 +965,21 @@
       <PackagePath>WinRT.Runtime.dll</PackagePath>
       <Modified>2022-06-14T01:02:02.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jonmg\.nuget\packages\microsoft.aspnetcore.authorization\6.0.7\lib\net6.0\Microsoft.AspNetCore.Authorization.dll">
+    <AppxPackagedFile Include="C:\Users\jonmg\.nuget\packages\microsoft.aspnetcore.authorization\6.0.8\lib\net6.0\Microsoft.AspNetCore.Authorization.dll">
       <PackagePath>Microsoft.AspNetCore.Authorization.dll</PackagePath>
-      <Modified>2022-06-22T22:49:08.000</Modified>
+      <Modified>2022-07-14T01:10:14.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jonmg\.nuget\packages\microsoft.aspnetcore.components\6.0.7\lib\net6.0\Microsoft.AspNetCore.Components.dll">
+    <AppxPackagedFile Include="C:\Users\jonmg\.nuget\packages\microsoft.aspnetcore.components\6.0.8\lib\net6.0\Microsoft.AspNetCore.Components.dll">
       <PackagePath>Microsoft.AspNetCore.Components.dll</PackagePath>
-      <Modified>2022-06-22T22:49:06.000</Modified>
+      <Modified>2022-07-14T01:10:34.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jonmg\.nuget\packages\microsoft.aspnetcore.components.forms\6.0.7\lib\net6.0\Microsoft.AspNetCore.Components.Forms.dll">
+    <AppxPackagedFile Include="C:\Users\jonmg\.nuget\packages\microsoft.aspnetcore.components.forms\6.0.8\lib\net6.0\Microsoft.AspNetCore.Components.Forms.dll">
       <PackagePath>Microsoft.AspNetCore.Components.Forms.dll</PackagePath>
-      <Modified>2022-06-22T22:49:08.000</Modified>
+      <Modified>2022-07-14T01:10:36.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jonmg\.nuget\packages\microsoft.aspnetcore.components.web\6.0.7\lib\net6.0\Microsoft.AspNetCore.Components.Web.dll">
+    <AppxPackagedFile Include="C:\Users\jonmg\.nuget\packages\microsoft.aspnetcore.components.web\6.0.8\lib\net6.0\Microsoft.AspNetCore.Components.Web.dll">
       <PackagePath>Microsoft.AspNetCore.Components.Web.dll</PackagePath>
-      <Modified>2022-06-22T22:49:46.000</Modified>
+      <Modified>2022-07-14T01:10:40.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jonmg\.nuget\packages\microsoft.aspnetcore.components.webview\6.0.7\lib\net6.0\Microsoft.AspNetCore.Components.WebView.dll">
       <PackagePath>Microsoft.AspNetCore.Components.WebView.dll</PackagePath>
@@ -989,9 +989,9 @@
       <PackagePath>Microsoft.AspNetCore.Components.WebView.Maui.dll</PackagePath>
       <Modified>2022-07-25T02:21:10.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jonmg\.nuget\packages\microsoft.aspnetcore.metadata\6.0.7\lib\net6.0\Microsoft.AspNetCore.Metadata.dll">
+    <AppxPackagedFile Include="C:\Users\jonmg\.nuget\packages\microsoft.aspnetcore.metadata\6.0.8\lib\net6.0\Microsoft.AspNetCore.Metadata.dll">
       <PackagePath>Microsoft.AspNetCore.Metadata.dll</PackagePath>
-      <Modified>2022-06-22T22:47:56.000</Modified>
+      <Modified>2022-07-14T01:10:12.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jonmg\.nuget\packages\microsoft.extensions.configuration\6.0.1\lib\netstandard2.0\Microsoft.Extensions.Configuration.dll">
       <PackagePath>Microsoft.Extensions.Configuration.dll</PackagePath>
@@ -1061,9 +1061,9 @@
       <PackagePath>Microsoft.Graphics.Canvas.Interop.dll</PackagePath>
       <Modified>2022-04-28T15:53:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jonmg\.nuget\packages\microsoft.jsinterop\6.0.7\lib\net6.0\Microsoft.JSInterop.dll">
+    <AppxPackagedFile Include="C:\Users\jonmg\.nuget\packages\microsoft.jsinterop\6.0.8\lib\net6.0\Microsoft.JSInterop.dll">
       <PackagePath>Microsoft.JSInterop.dll</PackagePath>
-      <Modified>2022-06-22T22:48:12.000</Modified>
+      <Modified>2022-07-14T01:10:38.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jonmg\.nuget\packages\microsoft.maui.graphics\6.0.403\lib\net6.0-windows10.0.18362\Microsoft.Maui.Graphics.dll">
       <PackagePath>Microsoft.Maui.Graphics.dll</PackagePath>
@@ -1121,6 +1121,10 @@
       <PackagePath>MudBlazor.dll</PackagePath>
       <Modified>2022-07-28T18:35:00.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jonmg\.nuget\packages\salamanderblazor\1.0.0\lib\net6.0\SalamanderBlazor.dll">
+      <PackagePath>SalamanderBlazor.dll</PackagePath>
+      <Modified>2022-08-17T22:51:04.362</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jonmg\.nuget\packages\system.io.pipelines\6.0.3\lib\net6.0\System.IO.Pipelines.dll">
       <PackagePath>System.IO.Pipelines.dll</PackagePath>
       <Modified>2022-04-13T17:49:36.000</Modified>
@@ -1135,7 +1139,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jonmg\projects\.net projets\MauiBlazor\MauiBlazorTest\MauiBlazorTest\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\MauiBlazorTest.deps.json">
       <PackagePath>MauiBlazorTest.deps.json</PackagePath>
-      <Modified>2022-08-15T18:52:57.451</Modified>
+      <Modified>2022-08-17T22:53:26.921</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\6.0.486\ref\net6.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -1161,9 +1165,21 @@
       <PackagePath>wwwroot\_content\MudBlazor\MudBlazor.min.js</PackagePath>
       <Modified>2022-07-26T15:44:04.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jonmg\.nuget\packages\salamanderblazor\1.0.0\staticwebassets\background.png">
+      <PackagePath>wwwroot\_content\SalamanderBlazor\background.png</PackagePath>
+      <Modified>2022-08-17T22:51:04.368</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jonmg\.nuget\packages\salamanderblazor\1.0.0\staticwebassets\exampleJsInterop.js">
+      <PackagePath>wwwroot\_content\SalamanderBlazor\exampleJsInterop.js</PackagePath>
+      <Modified>2022-08-17T22:51:04.369</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jonmg\.nuget\packages\salamanderblazor\1.0.0\staticwebassets\SalamanderBlazor.bundle.scp.css">
+      <PackagePath>wwwroot\_content\SalamanderBlazor\SalamanderBlazor.bundle.scp.css</PackagePath>
+      <Modified>2022-08-17T22:51:04.368</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jonmg\projects\.net projets\MauiBlazor\MauiBlazorTest\MauiBlazorTest\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\scopedcss\bundle\MauiBlazorTest.styles.css">
       <PackagePath>wwwroot\MauiBlazorTest.styles.css</PackagePath>
-      <Modified>2022-08-10T14:32:00.820</Modified>
+      <Modified>2022-08-17T22:51:07.897</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jonmg\projects\.net projets\MauiBlazor\MauiBlazorTest\MauiBlazorTest\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\scopedcss\projectbundle\MauiBlazorTest.bundle.scp.css">
       <PackagePath>wwwroot\MauiBlazorTest.bundle.scp.css</PackagePath>
@@ -1392,6 +1408,10 @@
     <AppxPackagedFile Include="C:\Users\jonmg\projects\.net projets\MauiBlazor\MauiBlazorTest\MauiBlazorTest\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
       <Modified>2022-08-15T18:34:12.429</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jonmg\.nuget\packages\salamanderblazor\1.0.0\contentFiles\any\net6.0\NuGet.Config">
+      <PackagePath>NuGet.Config</PackagePath>
+      <Modified>2022-08-17T22:51:04.370</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jonmg\projects\.net projets\MauiBlazor\MauiBlazorTest\MauiBlazorTest\Shared\MainLayout.razor.css">
       <PackagePath>Shared\MainLayout.razor.css</PackagePath>

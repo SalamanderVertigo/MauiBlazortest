@@ -31,7 +31,9 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://github.com/SalamanderVertigo/SalamanderBlazor.git": {},
+          "https://nuget.pkg.github.com/SalamanderVertigo/index.json": {}
         },
         "frameworks": {
           "net6.0-android31.0": {
@@ -79,6 +81,10 @@
             "MudBlazor": {
               "target": "Package",
               "version": "[6.0.14, )"
+            },
+            "SalamanderBlazor": {
+              "target": "Package",
+              "version": "[1.0.0, )"
             }
           },
           "imports": [
@@ -147,6 +153,10 @@
               "target": "Package",
               "version": "[6.0.14, )"
             },
+            "SalamanderBlazor": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
             "System.Runtime.InteropServices.NFloat.Internal": {
               "target": "Package",
               "version": "[6.0.1, )",
@@ -204,6 +214,10 @@
             "MudBlazor": {
               "target": "Package",
               "version": "[6.0.14, )"
+            },
+            "SalamanderBlazor": {
+              "target": "Package",
+              "version": "[1.0.0, )"
             },
             "System.Runtime.InteropServices.NFloat.Internal": {
               "target": "Package",
@@ -269,6 +283,10 @@
             "MudBlazor": {
               "target": "Package",
               "version": "[6.0.14, )"
+            },
+            "SalamanderBlazor": {
+              "target": "Package",
+              "version": "[1.0.0, )"
             }
           },
           "imports": [
