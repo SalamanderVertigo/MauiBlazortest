@@ -29,25 +29,25 @@
     <AppXManifest Include="C:\Users\jonmg\projects\.net projets\MauiBlazor\MauiBlazorTest\MauiBlazorTest\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2022-08-17T22:53:27.097</Modified>
+      <Modified>2022-08-23T21:36:20.425</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\jonmg\projects\.net projets\MauiBlazor\MauiBlazorTest\MauiBlazorTest\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2022-08-17T22:53:26.652</Modified>
+      <Modified>2022-08-23T21:17:22.592</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jonmg\projects\.net projets\MauiBlazor\MauiBlazorTest\MauiBlazorTest\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\MauiBlazorTest.runtimeconfig.json">
       <PackagePath>MauiBlazorTest.runtimeconfig.json</PackagePath>
-      <Modified>2022-08-17T22:53:26.428</Modified>
+      <Modified>2022-08-20T21:22:49.338</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jonmg\projects\.net projets\MauiBlazor\MauiBlazorTest\MauiBlazorTest\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\MauiBlazorTest.dll">
       <PackagePath>MauiBlazorTest.dll</PackagePath>
-      <Modified>2022-08-17T22:53:25.380</Modified>
+      <Modified>2022-08-23T21:17:21.543</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jonmg\projects\.net projets\MauiBlazor\MauiBlazorTest\MauiBlazorTest\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>MauiBlazorTest.exe</PackagePath>
-      <Modified>2022-08-17T22:53:25.400</Modified>
+      <Modified>2022-08-23T21:17:21.567</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jonmg\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.8\runtimes\win-x64\lib\net6.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -1121,10 +1121,6 @@
       <PackagePath>MudBlazor.dll</PackagePath>
       <Modified>2022-07-28T18:35:00.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jonmg\.nuget\packages\salamanderblazor\1.0.0\lib\net6.0\SalamanderBlazor.dll">
-      <PackagePath>SalamanderBlazor.dll</PackagePath>
-      <Modified>2022-08-17T22:51:04.362</Modified>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jonmg\.nuget\packages\system.io.pipelines\6.0.3\lib\net6.0\System.IO.Pipelines.dll">
       <PackagePath>System.IO.Pipelines.dll</PackagePath>
       <Modified>2022-04-13T17:49:36.000</Modified>
@@ -1137,9 +1133,17 @@
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
       <Modified>2022-07-19T16:53:02.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jonmg\projects\.net projets\Nuget\SalamanderBlazor\bin\Debug\net6.0\SalamanderBlazor.dll">
+      <PackagePath>SalamanderBlazor.dll</PackagePath>
+      <Modified>2022-08-23T21:36:17.494</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jonmg\projects\.net projets\MauiBlazor\MauiBlazorTest\MauiBlazorTest\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\MauiBlazorTest.deps.json">
       <PackagePath>MauiBlazorTest.deps.json</PackagePath>
-      <Modified>2022-08-17T22:53:26.921</Modified>
+      <Modified>2022-08-23T21:36:20.291</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jonmg\projects\.net projets\Nuget\SalamanderBlazor\obj\Debug\net6.0\staticwebassets.development.json">
+      <PackagePath>SalamanderBlazor.staticwebassets.runtime.json</PackagePath>
+      <Modified>2022-08-18T01:17:55.453</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files\dotnet\packs\Microsoft.Maui.Controls.Ref.win\6.0.486\ref\net6.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -1165,21 +1169,9 @@
       <PackagePath>wwwroot\_content\MudBlazor\MudBlazor.min.js</PackagePath>
       <Modified>2022-07-26T15:44:04.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jonmg\.nuget\packages\salamanderblazor\1.0.0\staticwebassets\background.png">
-      <PackagePath>wwwroot\_content\SalamanderBlazor\background.png</PackagePath>
-      <Modified>2022-08-17T22:51:04.368</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jonmg\.nuget\packages\salamanderblazor\1.0.0\staticwebassets\exampleJsInterop.js">
-      <PackagePath>wwwroot\_content\SalamanderBlazor\exampleJsInterop.js</PackagePath>
-      <Modified>2022-08-17T22:51:04.369</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jonmg\.nuget\packages\salamanderblazor\1.0.0\staticwebassets\SalamanderBlazor.bundle.scp.css">
-      <PackagePath>wwwroot\_content\SalamanderBlazor\SalamanderBlazor.bundle.scp.css</PackagePath>
-      <Modified>2022-08-17T22:51:04.368</Modified>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jonmg\projects\.net projets\MauiBlazor\MauiBlazorTest\MauiBlazorTest\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\scopedcss\bundle\MauiBlazorTest.styles.css">
       <PackagePath>wwwroot\MauiBlazorTest.styles.css</PackagePath>
-      <Modified>2022-08-17T22:51:07.897</Modified>
+      <Modified>2022-08-20T21:21:05.537</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jonmg\projects\.net projets\MauiBlazor\MauiBlazorTest\MauiBlazorTest\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\scopedcss\projectbundle\MauiBlazorTest.bundle.scp.css">
       <PackagePath>wwwroot\MauiBlazorTest.bundle.scp.css</PackagePath>
@@ -1240,6 +1232,18 @@
     <AppxPackagedFile Include="C:\Users\jonmg\projects\.net projets\MauiBlazor\MauiBlazorTest\MauiBlazorTest\wwwroot\index.html">
       <PackagePath>wwwroot\index.html</PackagePath>
       <Modified>2022-08-15T18:33:41.762</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jonmg\projects\.net projets\Nuget\SalamanderBlazor\obj\Debug\net6.0\scopedcss\projectbundle\SalamanderBlazor.bundle.scp.css">
+      <PackagePath>wwwroot\_content\SalamanderBlazor\SalamanderBlazor.bundle.scp.css</PackagePath>
+      <Modified>2022-08-23T21:31:33.706</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jonmg\projects\.net projets\Nuget\SalamanderBlazor\wwwroot\background.png">
+      <PackagePath>wwwroot\_content\SalamanderBlazor\background.png</PackagePath>
+      <Modified>2022-08-17T20:27:06.195</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jonmg\projects\.net projets\Nuget\SalamanderBlazor\wwwroot\exampleJsInterop.js">
+      <PackagePath>wwwroot\_content\SalamanderBlazor\exampleJsInterop.js</PackagePath>
+      <Modified>2022-08-17T20:27:06.196</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jonmg\projects\.net projets\MauiBlazor\MauiBlazorTest\MauiBlazorTest\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
@@ -1408,10 +1412,6 @@
     <AppxPackagedFile Include="C:\Users\jonmg\projects\.net projets\MauiBlazor\MauiBlazorTest\MauiBlazorTest\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
       <Modified>2022-08-15T18:34:12.429</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jonmg\.nuget\packages\salamanderblazor\1.0.0\contentFiles\any\net6.0\NuGet.Config">
-      <PackagePath>NuGet.Config</PackagePath>
-      <Modified>2022-08-17T22:51:04.370</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jonmg\projects\.net projets\MauiBlazor\MauiBlazorTest\MauiBlazorTest\Shared\MainLayout.razor.css">
       <PackagePath>Shared\MainLayout.razor.css</PackagePath>

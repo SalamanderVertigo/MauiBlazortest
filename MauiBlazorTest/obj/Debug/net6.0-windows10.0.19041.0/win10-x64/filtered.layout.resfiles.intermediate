@@ -1,9 +1,5 @@
 wwwroot\_content\MudBlazor\MudBlazor.min.css
 wwwroot\_content\MudBlazor\MudBlazor.min.js
-NuGet.Config
-wwwroot\_content\SalamanderBlazor\background.png
-wwwroot\_content\SalamanderBlazor\exampleJsInterop.js
-wwwroot\_content\SalamanderBlazor\SalamanderBlazor.bundle.scp.css
 OpenSans-Regular.ttf
 appicon.ico
 appiconLargeTile.scale-100.png
@@ -65,3 +61,6 @@ wwwroot\css\open-iconic\ICON-LICENSE
 wwwroot\css\open-iconic\README.md
 wwwroot\favicon.ico
 wwwroot\index.html
+wwwroot\_content\SalamanderBlazor\SalamanderBlazor.bundle.scp.css
+wwwroot\_content\SalamanderBlazor\background.png
+wwwroot\_content\SalamanderBlazor\exampleJsInterop.js

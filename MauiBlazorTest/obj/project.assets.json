@@ -515,32 +515,6 @@
           "buildMultiTargeting/MudBlazor.props": {}
         }
       },
-      "SalamanderBlazor/1.0.0": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.AspNetCore.Components.Web": "6.0.8",
-          "MudBlazor": "6.0.14"
-        },
-        "compile": {
-          "lib/net6.0/SalamanderBlazor.dll": {}
-        },
-        "runtime": {
-          "lib/net6.0/SalamanderBlazor.dll": {}
-        },
-        "contentFiles": {
-          "contentFiles/any/net6.0/NuGet.Config": {
-            "buildAction": "Content",
-            "codeLanguage": "any",
-            "copyToOutput": false
-          }
-        },
-        "build": {
-          "buildTransitive/SalamanderBlazor.props": {}
-        },
-        "buildMultiTargeting": {
-          "buildMultiTargeting/SalamanderBlazor.props": {}
-        }
-      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -2349,6 +2323,20 @@
         },
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
+        }
+      },
+      "SalamanderBlazor/1.0.1": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.8",
+          "MudBlazor": "6.0.14"
+        },
+        "compile": {
+          "bin/placeholder/SalamanderBlazor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SalamanderBlazor.dll": {}
         }
       }
     },
@@ -2866,32 +2854,6 @@
           "buildMultiTargeting/MudBlazor.props": {}
         }
       },
-      "SalamanderBlazor/1.0.0": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.AspNetCore.Components.Web": "6.0.8",
-          "MudBlazor": "6.0.14"
-        },
-        "compile": {
-          "lib/net6.0/SalamanderBlazor.dll": {}
-        },
-        "runtime": {
-          "lib/net6.0/SalamanderBlazor.dll": {}
-        },
-        "contentFiles": {
-          "contentFiles/any/net6.0/NuGet.Config": {
-            "buildAction": "Content",
-            "codeLanguage": "any",
-            "copyToOutput": false
-          }
-        },
-        "build": {
-          "buildTransitive/SalamanderBlazor.props": {}
-        },
-        "buildMultiTargeting": {
-          "buildMultiTargeting/SalamanderBlazor.props": {}
-        }
-      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -4694,6 +4656,20 @@
         },
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
+        }
+      },
+      "SalamanderBlazor/1.0.1": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.8",
+          "MudBlazor": "6.0.14"
+        },
+        "compile": {
+          "bin/placeholder/SalamanderBlazor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SalamanderBlazor.dll": {}
         }
       }
     },
@@ -5211,32 +5187,6 @@
           "buildMultiTargeting/MudBlazor.props": {}
         }
       },
-      "SalamanderBlazor/1.0.0": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.AspNetCore.Components.Web": "6.0.8",
-          "MudBlazor": "6.0.14"
-        },
-        "compile": {
-          "lib/net6.0/SalamanderBlazor.dll": {}
-        },
-        "runtime": {
-          "lib/net6.0/SalamanderBlazor.dll": {}
-        },
-        "contentFiles": {
-          "contentFiles/any/net6.0/NuGet.Config": {
-            "buildAction": "Content",
-            "codeLanguage": "any",
-            "copyToOutput": false
-          }
-        },
-        "build": {
-          "buildTransitive/SalamanderBlazor.props": {}
-        },
-        "buildMultiTargeting": {
-          "buildMultiTargeting/SalamanderBlazor.props": {}
-        }
-      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -7039,6 +6989,20 @@
         },
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
+        }
+      },
+      "SalamanderBlazor/1.0.1": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.8",
+          "MudBlazor": "6.0.14"
+        },
+        "compile": {
+          "bin/placeholder/SalamanderBlazor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SalamanderBlazor.dll": {}
         }
       }
     },
@@ -7556,32 +7520,6 @@
           "buildMultiTargeting/MudBlazor.props": {}
         }
       },
-      "SalamanderBlazor/1.0.0": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.AspNetCore.Components.Web": "6.0.8",
-          "MudBlazor": "6.0.14"
-        },
-        "compile": {
-          "lib/net6.0/SalamanderBlazor.dll": {}
-        },
-        "runtime": {
-          "lib/net6.0/SalamanderBlazor.dll": {}
-        },
-        "contentFiles": {
-          "contentFiles/any/net6.0/NuGet.Config": {
-            "buildAction": "Content",
-            "codeLanguage": "any",
-            "copyToOutput": false
-          }
-        },
-        "build": {
-          "buildTransitive/SalamanderBlazor.props": {}
-        },
-        "buildMultiTargeting": {
-          "buildMultiTargeting/SalamanderBlazor.props": {}
-        }
-      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -9384,6 +9322,20 @@
         },
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
+        }
+      },
+      "SalamanderBlazor/1.0.1": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.8",
+          "MudBlazor": "6.0.14"
+        },
+        "compile": {
+          "bin/placeholder/SalamanderBlazor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SalamanderBlazor.dll": {}
         }
       }
     },
@@ -9901,32 +9853,6 @@
           "buildMultiTargeting/MudBlazor.props": {}
         }
       },
-      "SalamanderBlazor/1.0.0": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.AspNetCore.Components.Web": "6.0.8",
-          "MudBlazor": "6.0.14"
-        },
-        "compile": {
-          "lib/net6.0/SalamanderBlazor.dll": {}
-        },
-        "runtime": {
-          "lib/net6.0/SalamanderBlazor.dll": {}
-        },
-        "contentFiles": {
-          "contentFiles/any/net6.0/NuGet.Config": {
-            "buildAction": "Content",
-            "codeLanguage": "any",
-            "copyToOutput": false
-          }
-        },
-        "build": {
-          "buildTransitive/SalamanderBlazor.props": {}
-        },
-        "buildMultiTargeting": {
-          "buildMultiTargeting/SalamanderBlazor.props": {}
-        }
-      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -11729,6 +11655,20 @@
         },
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
+        }
+      },
+      "SalamanderBlazor/1.0.1": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.8",
+          "MudBlazor": "6.0.14"
+        },
+        "compile": {
+          "bin/placeholder/SalamanderBlazor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SalamanderBlazor.dll": {}
         }
       }
     },
@@ -12246,32 +12186,6 @@
           "buildMultiTargeting/MudBlazor.props": {}
         }
       },
-      "SalamanderBlazor/1.0.0": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.AspNetCore.Components.Web": "6.0.8",
-          "MudBlazor": "6.0.14"
-        },
-        "compile": {
-          "lib/net6.0/SalamanderBlazor.dll": {}
-        },
-        "runtime": {
-          "lib/net6.0/SalamanderBlazor.dll": {}
-        },
-        "contentFiles": {
-          "contentFiles/any/net6.0/NuGet.Config": {
-            "buildAction": "Content",
-            "codeLanguage": "any",
-            "copyToOutput": false
-          }
-        },
-        "build": {
-          "buildTransitive/SalamanderBlazor.props": {}
-        },
-        "buildMultiTargeting": {
-          "buildMultiTargeting/SalamanderBlazor.props": {}
-        }
-      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -14074,6 +13988,20 @@
         },
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
+        }
+      },
+      "SalamanderBlazor/1.0.1": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.8",
+          "MudBlazor": "6.0.14"
+        },
+        "compile": {
+          "bin/placeholder/SalamanderBlazor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SalamanderBlazor.dll": {}
         }
       }
     },
@@ -14591,32 +14519,6 @@
           "buildMultiTargeting/MudBlazor.props": {}
         }
       },
-      "SalamanderBlazor/1.0.0": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.AspNetCore.Components.Web": "6.0.8",
-          "MudBlazor": "6.0.14"
-        },
-        "compile": {
-          "lib/net6.0/SalamanderBlazor.dll": {}
-        },
-        "runtime": {
-          "lib/net6.0/SalamanderBlazor.dll": {}
-        },
-        "contentFiles": {
-          "contentFiles/any/net6.0/NuGet.Config": {
-            "buildAction": "Content",
-            "codeLanguage": "any",
-            "copyToOutput": false
-          }
-        },
-        "build": {
-          "buildTransitive/SalamanderBlazor.props": {}
-        },
-        "buildMultiTargeting": {
-          "buildMultiTargeting/SalamanderBlazor.props": {}
-        }
-      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -16419,6 +16321,20 @@
         },
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
+        }
+      },
+      "SalamanderBlazor/1.0.1": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.8",
+          "MudBlazor": "6.0.14"
+        },
+        "compile": {
+          "bin/placeholder/SalamanderBlazor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SalamanderBlazor.dll": {}
         }
       }
     },
@@ -16936,32 +16852,6 @@
           "buildMultiTargeting/MudBlazor.props": {}
         }
       },
-      "SalamanderBlazor/1.0.0": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.AspNetCore.Components.Web": "6.0.8",
-          "MudBlazor": "6.0.14"
-        },
-        "compile": {
-          "lib/net6.0/SalamanderBlazor.dll": {}
-        },
-        "runtime": {
-          "lib/net6.0/SalamanderBlazor.dll": {}
-        },
-        "contentFiles": {
-          "contentFiles/any/net6.0/NuGet.Config": {
-            "buildAction": "Content",
-            "codeLanguage": "any",
-            "copyToOutput": false
-          }
-        },
-        "build": {
-          "buildTransitive/SalamanderBlazor.props": {}
-        },
-        "buildMultiTargeting": {
-          "buildMultiTargeting/SalamanderBlazor.props": {}
-        }
-      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -18765,6 +18655,20 @@
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
         }
+      },
+      "SalamanderBlazor/1.0.1": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.8",
+          "MudBlazor": "6.0.14"
+        },
+        "compile": {
+          "bin/placeholder/SalamanderBlazor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SalamanderBlazor.dll": {}
+        }
       }
     },
     "net6.0-ios15.4": {
@@ -19260,32 +19164,6 @@
           "buildMultiTargeting/MudBlazor.props": {}
         }
       },
-      "SalamanderBlazor/1.0.0": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.AspNetCore.Components.Web": "6.0.8",
-          "MudBlazor": "6.0.14"
-        },
-        "compile": {
-          "lib/net6.0/SalamanderBlazor.dll": {}
-        },
-        "runtime": {
-          "lib/net6.0/SalamanderBlazor.dll": {}
-        },
-        "contentFiles": {
-          "contentFiles/any/net6.0/NuGet.Config": {
-            "buildAction": "Content",
-            "codeLanguage": "any",
-            "copyToOutput": false
-          }
-        },
-        "build": {
-          "buildTransitive/SalamanderBlazor.props": {}
-        },
-        "buildMultiTargeting": {
-          "buildMultiTargeting/SalamanderBlazor.props": {}
-        }
-      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -19388,6 +19266,20 @@
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
+      "SalamanderBlazor/1.0.1": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.8",
+          "MudBlazor": "6.0.14"
+        },
+        "compile": {
+          "bin/placeholder/SalamanderBlazor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SalamanderBlazor.dll": {}
         }
       }
     },
@@ -19884,32 +19776,6 @@
           "buildMultiTargeting/MudBlazor.props": {}
         }
       },
-      "SalamanderBlazor/1.0.0": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.AspNetCore.Components.Web": "6.0.8",
-          "MudBlazor": "6.0.14"
-        },
-        "compile": {
-          "lib/net6.0/SalamanderBlazor.dll": {}
-        },
-        "runtime": {
-          "lib/net6.0/SalamanderBlazor.dll": {}
-        },
-        "contentFiles": {
-          "contentFiles/any/net6.0/NuGet.Config": {
-            "buildAction": "Content",
-            "codeLanguage": "any",
-            "copyToOutput": false
-          }
-        },
-        "build": {
-          "buildTransitive/SalamanderBlazor.props": {}
-        },
-        "buildMultiTargeting": {
-          "buildMultiTargeting/SalamanderBlazor.props": {}
-        }
-      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -20006,6 +19872,20 @@
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
+      "SalamanderBlazor/1.0.1": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.8",
+          "MudBlazor": "6.0.14"
+        },
+        "compile": {
+          "bin/placeholder/SalamanderBlazor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SalamanderBlazor.dll": {}
         }
       }
     },
@@ -20502,32 +20382,6 @@
           "buildMultiTargeting/MudBlazor.props": {}
         }
       },
-      "SalamanderBlazor/1.0.0": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.AspNetCore.Components.Web": "6.0.8",
-          "MudBlazor": "6.0.14"
-        },
-        "compile": {
-          "lib/net6.0/SalamanderBlazor.dll": {}
-        },
-        "runtime": {
-          "lib/net6.0/SalamanderBlazor.dll": {}
-        },
-        "contentFiles": {
-          "contentFiles/any/net6.0/NuGet.Config": {
-            "buildAction": "Content",
-            "codeLanguage": "any",
-            "copyToOutput": false
-          }
-        },
-        "build": {
-          "buildTransitive/SalamanderBlazor.props": {}
-        },
-        "buildMultiTargeting": {
-          "buildMultiTargeting/SalamanderBlazor.props": {}
-        }
-      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -20624,6 +20478,20 @@
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
+      "SalamanderBlazor/1.0.1": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.8",
+          "MudBlazor": "6.0.14"
+        },
+        "compile": {
+          "bin/placeholder/SalamanderBlazor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SalamanderBlazor.dll": {}
         }
       }
     },
@@ -21120,32 +20988,6 @@
           "buildMultiTargeting/MudBlazor.props": {}
         }
       },
-      "SalamanderBlazor/1.0.0": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.AspNetCore.Components.Web": "6.0.8",
-          "MudBlazor": "6.0.14"
-        },
-        "compile": {
-          "lib/net6.0/SalamanderBlazor.dll": {}
-        },
-        "runtime": {
-          "lib/net6.0/SalamanderBlazor.dll": {}
-        },
-        "contentFiles": {
-          "contentFiles/any/net6.0/NuGet.Config": {
-            "buildAction": "Content",
-            "codeLanguage": "any",
-            "copyToOutput": false
-          }
-        },
-        "build": {
-          "buildTransitive/SalamanderBlazor.props": {}
-        },
-        "buildMultiTargeting": {
-          "buildMultiTargeting/SalamanderBlazor.props": {}
-        }
-      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -21242,6 +21084,20 @@
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
+      "SalamanderBlazor/1.0.1": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.8",
+          "MudBlazor": "6.0.14"
+        },
+        "compile": {
+          "bin/placeholder/SalamanderBlazor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SalamanderBlazor.dll": {}
         }
       }
     },
@@ -21738,32 +21594,6 @@
           "buildMultiTargeting/MudBlazor.props": {}
         }
       },
-      "SalamanderBlazor/1.0.0": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.AspNetCore.Components.Web": "6.0.8",
-          "MudBlazor": "6.0.14"
-        },
-        "compile": {
-          "lib/net6.0/SalamanderBlazor.dll": {}
-        },
-        "runtime": {
-          "lib/net6.0/SalamanderBlazor.dll": {}
-        },
-        "contentFiles": {
-          "contentFiles/any/net6.0/NuGet.Config": {
-            "buildAction": "Content",
-            "codeLanguage": "any",
-            "copyToOutput": false
-          }
-        },
-        "build": {
-          "buildTransitive/SalamanderBlazor.props": {}
-        },
-        "buildMultiTargeting": {
-          "buildMultiTargeting/SalamanderBlazor.props": {}
-        }
-      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -21860,6 +21690,20 @@
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
+      "SalamanderBlazor/1.0.1": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.8",
+          "MudBlazor": "6.0.14"
+        },
+        "compile": {
+          "bin/placeholder/SalamanderBlazor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SalamanderBlazor.dll": {}
         }
       }
     },
@@ -22356,32 +22200,6 @@
           "buildMultiTargeting/MudBlazor.props": {}
         }
       },
-      "SalamanderBlazor/1.0.0": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.AspNetCore.Components.Web": "6.0.8",
-          "MudBlazor": "6.0.14"
-        },
-        "compile": {
-          "lib/net6.0/SalamanderBlazor.dll": {}
-        },
-        "runtime": {
-          "lib/net6.0/SalamanderBlazor.dll": {}
-        },
-        "contentFiles": {
-          "contentFiles/any/net6.0/NuGet.Config": {
-            "buildAction": "Content",
-            "codeLanguage": "any",
-            "copyToOutput": false
-          }
-        },
-        "build": {
-          "buildTransitive/SalamanderBlazor.props": {}
-        },
-        "buildMultiTargeting": {
-          "buildMultiTargeting/SalamanderBlazor.props": {}
-        }
-      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -22478,6 +22296,20 @@
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
+      "SalamanderBlazor/1.0.1": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.8",
+          "MudBlazor": "6.0.14"
+        },
+        "compile": {
+          "bin/placeholder/SalamanderBlazor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SalamanderBlazor.dll": {}
         }
       }
     },
@@ -22974,32 +22806,6 @@
           "buildMultiTargeting/MudBlazor.props": {}
         }
       },
-      "SalamanderBlazor/1.0.0": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.AspNetCore.Components.Web": "6.0.8",
-          "MudBlazor": "6.0.14"
-        },
-        "compile": {
-          "lib/net6.0/SalamanderBlazor.dll": {}
-        },
-        "runtime": {
-          "lib/net6.0/SalamanderBlazor.dll": {}
-        },
-        "contentFiles": {
-          "contentFiles/any/net6.0/NuGet.Config": {
-            "buildAction": "Content",
-            "codeLanguage": "any",
-            "copyToOutput": false
-          }
-        },
-        "build": {
-          "buildTransitive/SalamanderBlazor.props": {}
-        },
-        "buildMultiTargeting": {
-          "buildMultiTargeting/SalamanderBlazor.props": {}
-        }
-      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -23096,6 +22902,20 @@
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
+      "SalamanderBlazor/1.0.1": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.8",
+          "MudBlazor": "6.0.14"
+        },
+        "compile": {
+          "bin/placeholder/SalamanderBlazor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SalamanderBlazor.dll": {}
         }
       }
     },
@@ -23592,32 +23412,6 @@
           "buildMultiTargeting/MudBlazor.props": {}
         }
       },
-      "SalamanderBlazor/1.0.0": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.AspNetCore.Components.Web": "6.0.8",
-          "MudBlazor": "6.0.14"
-        },
-        "compile": {
-          "lib/net6.0/SalamanderBlazor.dll": {}
-        },
-        "runtime": {
-          "lib/net6.0/SalamanderBlazor.dll": {}
-        },
-        "contentFiles": {
-          "contentFiles/any/net6.0/NuGet.Config": {
-            "buildAction": "Content",
-            "codeLanguage": "any",
-            "copyToOutput": false
-          }
-        },
-        "build": {
-          "buildTransitive/SalamanderBlazor.props": {}
-        },
-        "buildMultiTargeting": {
-          "buildMultiTargeting/SalamanderBlazor.props": {}
-        }
-      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -23714,6 +23508,20 @@
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
+      "SalamanderBlazor/1.0.1": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.8",
+          "MudBlazor": "6.0.14"
+        },
+        "compile": {
+          "bin/placeholder/SalamanderBlazor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SalamanderBlazor.dll": {}
         }
       }
     },
@@ -24210,32 +24018,6 @@
           "buildMultiTargeting/MudBlazor.props": {}
         }
       },
-      "SalamanderBlazor/1.0.0": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.AspNetCore.Components.Web": "6.0.8",
-          "MudBlazor": "6.0.14"
-        },
-        "compile": {
-          "lib/net6.0/SalamanderBlazor.dll": {}
-        },
-        "runtime": {
-          "lib/net6.0/SalamanderBlazor.dll": {}
-        },
-        "contentFiles": {
-          "contentFiles/any/net6.0/NuGet.Config": {
-            "buildAction": "Content",
-            "codeLanguage": "any",
-            "copyToOutput": false
-          }
-        },
-        "build": {
-          "buildTransitive/SalamanderBlazor.props": {}
-        },
-        "buildMultiTargeting": {
-          "buildMultiTargeting/SalamanderBlazor.props": {}
-        }
-      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -24338,6 +24120,20 @@
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
+      "SalamanderBlazor/1.0.1": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.8",
+          "MudBlazor": "6.0.14"
+        },
+        "compile": {
+          "bin/placeholder/SalamanderBlazor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SalamanderBlazor.dll": {}
         }
       }
     },
@@ -24834,32 +24630,6 @@
           "buildMultiTargeting/MudBlazor.props": {}
         }
       },
-      "SalamanderBlazor/1.0.0": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.AspNetCore.Components.Web": "6.0.8",
-          "MudBlazor": "6.0.14"
-        },
-        "compile": {
-          "lib/net6.0/SalamanderBlazor.dll": {}
-        },
-        "runtime": {
-          "lib/net6.0/SalamanderBlazor.dll": {}
-        },
-        "contentFiles": {
-          "contentFiles/any/net6.0/NuGet.Config": {
-            "buildAction": "Content",
-            "codeLanguage": "any",
-            "copyToOutput": false
-          }
-        },
-        "build": {
-          "buildTransitive/SalamanderBlazor.props": {}
-        },
-        "buildMultiTargeting": {
-          "buildMultiTargeting/SalamanderBlazor.props": {}
-        }
-      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -24956,6 +24726,20 @@
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
+      "SalamanderBlazor/1.0.1": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.8",
+          "MudBlazor": "6.0.14"
+        },
+        "compile": {
+          "bin/placeholder/SalamanderBlazor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SalamanderBlazor.dll": {}
         }
       }
     },
@@ -25452,32 +25236,6 @@
           "buildMultiTargeting/MudBlazor.props": {}
         }
       },
-      "SalamanderBlazor/1.0.0": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.AspNetCore.Components.Web": "6.0.8",
-          "MudBlazor": "6.0.14"
-        },
-        "compile": {
-          "lib/net6.0/SalamanderBlazor.dll": {}
-        },
-        "runtime": {
-          "lib/net6.0/SalamanderBlazor.dll": {}
-        },
-        "contentFiles": {
-          "contentFiles/any/net6.0/NuGet.Config": {
-            "buildAction": "Content",
-            "codeLanguage": "any",
-            "copyToOutput": false
-          }
-        },
-        "build": {
-          "buildTransitive/SalamanderBlazor.props": {}
-        },
-        "buildMultiTargeting": {
-          "buildMultiTargeting/SalamanderBlazor.props": {}
-        }
-      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -25574,6 +25332,20 @@
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
+      "SalamanderBlazor/1.0.1": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.8",
+          "MudBlazor": "6.0.14"
+        },
+        "compile": {
+          "bin/placeholder/SalamanderBlazor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SalamanderBlazor.dll": {}
         }
       }
     },
@@ -26070,32 +25842,6 @@
           "buildMultiTargeting/MudBlazor.props": {}
         }
       },
-      "SalamanderBlazor/1.0.0": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.AspNetCore.Components.Web": "6.0.8",
-          "MudBlazor": "6.0.14"
-        },
-        "compile": {
-          "lib/net6.0/SalamanderBlazor.dll": {}
-        },
-        "runtime": {
-          "lib/net6.0/SalamanderBlazor.dll": {}
-        },
-        "contentFiles": {
-          "contentFiles/any/net6.0/NuGet.Config": {
-            "buildAction": "Content",
-            "codeLanguage": "any",
-            "copyToOutput": false
-          }
-        },
-        "build": {
-          "buildTransitive/SalamanderBlazor.props": {}
-        },
-        "buildMultiTargeting": {
-          "buildMultiTargeting/SalamanderBlazor.props": {}
-        }
-      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -26192,6 +25938,20 @@
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
+      "SalamanderBlazor/1.0.1": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.8",
+          "MudBlazor": "6.0.14"
+        },
+        "compile": {
+          "bin/placeholder/SalamanderBlazor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SalamanderBlazor.dll": {}
         }
       }
     },
@@ -26688,32 +26448,6 @@
           "buildMultiTargeting/MudBlazor.props": {}
         }
       },
-      "SalamanderBlazor/1.0.0": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.AspNetCore.Components.Web": "6.0.8",
-          "MudBlazor": "6.0.14"
-        },
-        "compile": {
-          "lib/net6.0/SalamanderBlazor.dll": {}
-        },
-        "runtime": {
-          "lib/net6.0/SalamanderBlazor.dll": {}
-        },
-        "contentFiles": {
-          "contentFiles/any/net6.0/NuGet.Config": {
-            "buildAction": "Content",
-            "codeLanguage": "any",
-            "copyToOutput": false
-          }
-        },
-        "build": {
-          "buildTransitive/SalamanderBlazor.props": {}
-        },
-        "buildMultiTargeting": {
-          "buildMultiTargeting/SalamanderBlazor.props": {}
-        }
-      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -26810,6 +26544,20 @@
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
+      "SalamanderBlazor/1.0.1": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.8",
+          "MudBlazor": "6.0.14"
+        },
+        "compile": {
+          "bin/placeholder/SalamanderBlazor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SalamanderBlazor.dll": {}
         }
       }
     },
@@ -27306,32 +27054,6 @@
           "buildMultiTargeting/MudBlazor.props": {}
         }
       },
-      "SalamanderBlazor/1.0.0": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.AspNetCore.Components.Web": "6.0.8",
-          "MudBlazor": "6.0.14"
-        },
-        "compile": {
-          "lib/net6.0/SalamanderBlazor.dll": {}
-        },
-        "runtime": {
-          "lib/net6.0/SalamanderBlazor.dll": {}
-        },
-        "contentFiles": {
-          "contentFiles/any/net6.0/NuGet.Config": {
-            "buildAction": "Content",
-            "codeLanguage": "any",
-            "copyToOutput": false
-          }
-        },
-        "build": {
-          "buildTransitive/SalamanderBlazor.props": {}
-        },
-        "buildMultiTargeting": {
-          "buildMultiTargeting/SalamanderBlazor.props": {}
-        }
-      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -27428,6 +27150,20 @@
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
+      "SalamanderBlazor/1.0.1": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.8",
+          "MudBlazor": "6.0.14"
+        },
+        "compile": {
+          "bin/placeholder/SalamanderBlazor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SalamanderBlazor.dll": {}
         }
       }
     },
@@ -27924,32 +27660,6 @@
           "buildMultiTargeting/MudBlazor.props": {}
         }
       },
-      "SalamanderBlazor/1.0.0": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.AspNetCore.Components.Web": "6.0.8",
-          "MudBlazor": "6.0.14"
-        },
-        "compile": {
-          "lib/net6.0/SalamanderBlazor.dll": {}
-        },
-        "runtime": {
-          "lib/net6.0/SalamanderBlazor.dll": {}
-        },
-        "contentFiles": {
-          "contentFiles/any/net6.0/NuGet.Config": {
-            "buildAction": "Content",
-            "codeLanguage": "any",
-            "copyToOutput": false
-          }
-        },
-        "build": {
-          "buildTransitive/SalamanderBlazor.props": {}
-        },
-        "buildMultiTargeting": {
-          "buildMultiTargeting/SalamanderBlazor.props": {}
-        }
-      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -28046,6 +27756,20 @@
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
+      "SalamanderBlazor/1.0.1": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.8",
+          "MudBlazor": "6.0.14"
+        },
+        "compile": {
+          "bin/placeholder/SalamanderBlazor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SalamanderBlazor.dll": {}
         }
       }
     },
@@ -28542,32 +28266,6 @@
           "buildMultiTargeting/MudBlazor.props": {}
         }
       },
-      "SalamanderBlazor/1.0.0": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.AspNetCore.Components.Web": "6.0.8",
-          "MudBlazor": "6.0.14"
-        },
-        "compile": {
-          "lib/net6.0/SalamanderBlazor.dll": {}
-        },
-        "runtime": {
-          "lib/net6.0/SalamanderBlazor.dll": {}
-        },
-        "contentFiles": {
-          "contentFiles/any/net6.0/NuGet.Config": {
-            "buildAction": "Content",
-            "codeLanguage": "any",
-            "copyToOutput": false
-          }
-        },
-        "build": {
-          "buildTransitive/SalamanderBlazor.props": {}
-        },
-        "buildMultiTargeting": {
-          "buildMultiTargeting/SalamanderBlazor.props": {}
-        }
-      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -28664,6 +28362,20 @@
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
+      "SalamanderBlazor/1.0.1": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.8",
+          "MudBlazor": "6.0.14"
+        },
+        "compile": {
+          "bin/placeholder/SalamanderBlazor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SalamanderBlazor.dll": {}
         }
       }
     },
@@ -29292,32 +29004,6 @@
           "buildMultiTargeting/MudBlazor.props": {}
         }
       },
-      "SalamanderBlazor/1.0.0": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.AspNetCore.Components.Web": "6.0.8",
-          "MudBlazor": "6.0.14"
-        },
-        "compile": {
-          "lib/net6.0/SalamanderBlazor.dll": {}
-        },
-        "runtime": {
-          "lib/net6.0/SalamanderBlazor.dll": {}
-        },
-        "contentFiles": {
-          "contentFiles/any/net6.0/NuGet.Config": {
-            "buildAction": "Content",
-            "codeLanguage": "any",
-            "copyToOutput": false
-          }
-        },
-        "build": {
-          "buildTransitive/SalamanderBlazor.props": {}
-        },
-        "buildMultiTargeting": {
-          "buildMultiTargeting/SalamanderBlazor.props": {}
-        }
-      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -29412,6 +29098,20 @@
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
+      "SalamanderBlazor/1.0.1": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.8",
+          "MudBlazor": "6.0.14"
+        },
+        "compile": {
+          "bin/placeholder/SalamanderBlazor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SalamanderBlazor.dll": {}
         }
       }
     },
@@ -30012,32 +29712,6 @@
           "buildMultiTargeting/MudBlazor.props": {}
         }
       },
-      "SalamanderBlazor/1.0.0": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.AspNetCore.Components.Web": "6.0.8",
-          "MudBlazor": "6.0.14"
-        },
-        "compile": {
-          "lib/net6.0/SalamanderBlazor.dll": {}
-        },
-        "runtime": {
-          "lib/net6.0/SalamanderBlazor.dll": {}
-        },
-        "contentFiles": {
-          "contentFiles/any/net6.0/NuGet.Config": {
-            "buildAction": "Content",
-            "codeLanguage": "any",
-            "copyToOutput": false
-          }
-        },
-        "build": {
-          "buildTransitive/SalamanderBlazor.props": {}
-        },
-        "buildMultiTargeting": {
-          "buildMultiTargeting/SalamanderBlazor.props": {}
-        }
-      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -30126,6 +29800,20 @@
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
+      "SalamanderBlazor/1.0.1": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.8",
+          "MudBlazor": "6.0.14"
+        },
+        "compile": {
+          "bin/placeholder/SalamanderBlazor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SalamanderBlazor.dll": {}
         }
       }
     },
@@ -30726,32 +30414,6 @@
           "buildMultiTargeting/MudBlazor.props": {}
         }
       },
-      "SalamanderBlazor/1.0.0": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.AspNetCore.Components.Web": "6.0.8",
-          "MudBlazor": "6.0.14"
-        },
-        "compile": {
-          "lib/net6.0/SalamanderBlazor.dll": {}
-        },
-        "runtime": {
-          "lib/net6.0/SalamanderBlazor.dll": {}
-        },
-        "contentFiles": {
-          "contentFiles/any/net6.0/NuGet.Config": {
-            "buildAction": "Content",
-            "codeLanguage": "any",
-            "copyToOutput": false
-          }
-        },
-        "build": {
-          "buildTransitive/SalamanderBlazor.props": {}
-        },
-        "buildMultiTargeting": {
-          "buildMultiTargeting/SalamanderBlazor.props": {}
-        }
-      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -30840,6 +30502,20 @@
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
+      "SalamanderBlazor/1.0.1": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.8",
+          "MudBlazor": "6.0.14"
+        },
+        "compile": {
+          "bin/placeholder/SalamanderBlazor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SalamanderBlazor.dll": {}
         }
       }
     },
@@ -31440,32 +31116,6 @@
           "buildMultiTargeting/MudBlazor.props": {}
         }
       },
-      "SalamanderBlazor/1.0.0": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.AspNetCore.Components.Web": "6.0.8",
-          "MudBlazor": "6.0.14"
-        },
-        "compile": {
-          "lib/net6.0/SalamanderBlazor.dll": {}
-        },
-        "runtime": {
-          "lib/net6.0/SalamanderBlazor.dll": {}
-        },
-        "contentFiles": {
-          "contentFiles/any/net6.0/NuGet.Config": {
-            "buildAction": "Content",
-            "codeLanguage": "any",
-            "copyToOutput": false
-          }
-        },
-        "build": {
-          "buildTransitive/SalamanderBlazor.props": {}
-        },
-        "buildMultiTargeting": {
-          "buildMultiTargeting/SalamanderBlazor.props": {}
-        }
-      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -31554,6 +31204,20 @@
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
+      "SalamanderBlazor/1.0.1": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.8",
+          "MudBlazor": "6.0.14"
+        },
+        "compile": {
+          "bin/placeholder/SalamanderBlazor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SalamanderBlazor.dll": {}
         }
       }
     },
@@ -32154,32 +31818,6 @@
           "buildMultiTargeting/MudBlazor.props": {}
         }
       },
-      "SalamanderBlazor/1.0.0": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.AspNetCore.Components.Web": "6.0.8",
-          "MudBlazor": "6.0.14"
-        },
-        "compile": {
-          "lib/net6.0/SalamanderBlazor.dll": {}
-        },
-        "runtime": {
-          "lib/net6.0/SalamanderBlazor.dll": {}
-        },
-        "contentFiles": {
-          "contentFiles/any/net6.0/NuGet.Config": {
-            "buildAction": "Content",
-            "codeLanguage": "any",
-            "copyToOutput": false
-          }
-        },
-        "build": {
-          "buildTransitive/SalamanderBlazor.props": {}
-        },
-        "buildMultiTargeting": {
-          "buildMultiTargeting/SalamanderBlazor.props": {}
-        }
-      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -32268,6 +31906,20 @@
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
+      "SalamanderBlazor/1.0.1": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.8",
+          "MudBlazor": "6.0.14"
+        },
+        "compile": {
+          "bin/placeholder/SalamanderBlazor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SalamanderBlazor.dll": {}
         }
       }
     },
@@ -32868,32 +32520,6 @@
           "buildMultiTargeting/MudBlazor.props": {}
         }
       },
-      "SalamanderBlazor/1.0.0": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.AspNetCore.Components.Web": "6.0.8",
-          "MudBlazor": "6.0.14"
-        },
-        "compile": {
-          "lib/net6.0/SalamanderBlazor.dll": {}
-        },
-        "runtime": {
-          "lib/net6.0/SalamanderBlazor.dll": {}
-        },
-        "contentFiles": {
-          "contentFiles/any/net6.0/NuGet.Config": {
-            "buildAction": "Content",
-            "codeLanguage": "any",
-            "copyToOutput": false
-          }
-        },
-        "build": {
-          "buildTransitive/SalamanderBlazor.props": {}
-        },
-        "buildMultiTargeting": {
-          "buildMultiTargeting/SalamanderBlazor.props": {}
-        }
-      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -32982,6 +32608,20 @@
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
+      "SalamanderBlazor/1.0.1": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.8",
+          "MudBlazor": "6.0.14"
+        },
+        "compile": {
+          "bin/placeholder/SalamanderBlazor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SalamanderBlazor.dll": {}
         }
       }
     },
@@ -33582,32 +33222,6 @@
           "buildMultiTargeting/MudBlazor.props": {}
         }
       },
-      "SalamanderBlazor/1.0.0": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.AspNetCore.Components.Web": "6.0.8",
-          "MudBlazor": "6.0.14"
-        },
-        "compile": {
-          "lib/net6.0/SalamanderBlazor.dll": {}
-        },
-        "runtime": {
-          "lib/net6.0/SalamanderBlazor.dll": {}
-        },
-        "contentFiles": {
-          "contentFiles/any/net6.0/NuGet.Config": {
-            "buildAction": "Content",
-            "codeLanguage": "any",
-            "copyToOutput": false
-          }
-        },
-        "build": {
-          "buildTransitive/SalamanderBlazor.props": {}
-        },
-        "buildMultiTargeting": {
-          "buildMultiTargeting/SalamanderBlazor.props": {}
-        }
-      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -33696,6 +33310,20 @@
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
+      "SalamanderBlazor/1.0.1": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.8",
+          "MudBlazor": "6.0.14"
+        },
+        "compile": {
+          "bin/placeholder/SalamanderBlazor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SalamanderBlazor.dll": {}
         }
       }
     },
@@ -34302,32 +33930,6 @@
           "buildMultiTargeting/MudBlazor.props": {}
         }
       },
-      "SalamanderBlazor/1.0.0": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.AspNetCore.Components.Web": "6.0.8",
-          "MudBlazor": "6.0.14"
-        },
-        "compile": {
-          "lib/net6.0/SalamanderBlazor.dll": {}
-        },
-        "runtime": {
-          "lib/net6.0/SalamanderBlazor.dll": {}
-        },
-        "contentFiles": {
-          "contentFiles/any/net6.0/NuGet.Config": {
-            "buildAction": "Content",
-            "codeLanguage": "any",
-            "copyToOutput": false
-          }
-        },
-        "build": {
-          "buildTransitive/SalamanderBlazor.props": {}
-        },
-        "buildMultiTargeting": {
-          "buildMultiTargeting/SalamanderBlazor.props": {}
-        }
-      },
       "System.Diagnostics.DiagnosticSource/6.0.0": {
         "type": "package",
         "dependencies": {
@@ -34416,6 +34018,20 @@
         },
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
+      "SalamanderBlazor/1.0.1": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Components.Web": "6.0.8",
+          "MudBlazor": "6.0.14"
+        },
+        "compile": {
+          "bin/placeholder/SalamanderBlazor.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SalamanderBlazor.dll": {}
         }
       }
     }
@@ -35848,27 +35464,6 @@
         "mudblazor.nuspec",
         "staticwebassets/MudBlazor.min.css",
         "staticwebassets/MudBlazor.min.js"
-      ]
-    },
-    "SalamanderBlazor/1.0.0": {
-      "sha512": "JzJcuh8hGaxip0hRCx7AXLKhfB8OATF+uND6GYWRVixZIT2eK/GGvA1+xSm1uIiIbZqfEbvkuup0wcEHsaYw8w==",
-      "type": "package",
-      "path": "salamanderblazor/1.0.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "build/Microsoft.AspNetCore.StaticWebAssets.props",
-        "build/SalamanderBlazor.props",
-        "buildMultiTargeting/SalamanderBlazor.props",
-        "buildTransitive/SalamanderBlazor.props",
-        "content/NuGet.Config",
-        "contentFiles/any/net6.0/NuGet.Config",
-        "lib/net6.0/SalamanderBlazor.dll",
-        "salamanderblazor.1.0.0.nupkg.sha512",
-        "salamanderblazor.nuspec",
-        "staticwebassets/SalamanderBlazor.bundle.scp.css",
-        "staticwebassets/background.png",
-        "staticwebassets/exampleJsInterop.js"
       ]
     },
     "System.Diagnostics.DiagnosticSource/6.0.0": {
@@ -37897,6 +37492,11 @@
         "xamarin.kotlinx.coroutines.core.jvm.1.6.0.1.nupkg.sha512",
         "xamarin.kotlinx.coroutines.core.jvm.nuspec"
       ]
+    },
+    "SalamanderBlazor/1.0.1": {
+      "type": "project",
+      "path": "../../../Nuget/SalamanderBlazor/SalamanderBlazor.csproj",
+      "msbuildProject": "../../../Nuget/SalamanderBlazor/SalamanderBlazor.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -37905,14 +37505,14 @@
       "Microsoft.Maui.Dependencies >= 6.0.486",
       "Microsoft.Maui.Extensions >= 6.0.486",
       "MudBlazor >= 6.0.14",
-      "SalamanderBlazor >= 1.0.0"
+      "SalamanderBlazor >= 1.0.1"
     ],
     "net6.0-ios15.4": [
       "Microsoft.AspNetCore.Components.WebView.Maui >= 6.0.486",
       "Microsoft.Maui.Dependencies >= 6.0.486",
       "Microsoft.Maui.Extensions >= 6.0.486",
       "MudBlazor >= 6.0.14",
-      "SalamanderBlazor >= 1.0.0",
+      "SalamanderBlazor >= 1.0.1",
       "System.Runtime.InteropServices.NFloat.Internal >= 6.0.1"
     ],
     "net6.0-maccatalyst15.4": [
@@ -37920,7 +37520,7 @@
       "Microsoft.Maui.Dependencies >= 6.0.486",
       "Microsoft.Maui.Extensions >= 6.0.486",
       "MudBlazor >= 6.0.14",
-      "SalamanderBlazor >= 1.0.0",
+      "SalamanderBlazor >= 1.0.1",
       "System.Runtime.InteropServices.NFloat.Internal >= 6.0.1"
     ],
     "net6.0-windows10.0.19041": [
@@ -37929,7 +37529,7 @@
       "Microsoft.Maui.Extensions >= 6.0.486",
       "Microsoft.Windows.SDK.BuildTools >= 10.0.22000.194",
       "MudBlazor >= 6.0.14",
-      "SalamanderBlazor >= 1.0.0"
+      "SalamanderBlazor >= 1.0.1"
     ]
   },
   "packageFolders": {
@@ -37970,19 +37570,35 @@
       "frameworks": {
         "net6.0-android31.0": {
           "targetAlias": "net6.0-android",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\jonmg\\projects\\.net projets\\Nuget\\SalamanderBlazor\\SalamanderBlazor.csproj": {
+              "projectPath": "C:\\Users\\jonmg\\projects\\.net projets\\Nuget\\SalamanderBlazor\\SalamanderBlazor.csproj"
+            }
+          }
         },
         "net6.0-ios15.4": {
           "targetAlias": "net6.0-ios",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\jonmg\\projects\\.net projets\\Nuget\\SalamanderBlazor\\SalamanderBlazor.csproj": {
+              "projectPath": "C:\\Users\\jonmg\\projects\\.net projets\\Nuget\\SalamanderBlazor\\SalamanderBlazor.csproj"
+            }
+          }
         },
         "net6.0-maccatalyst15.4": {
           "targetAlias": "net6.0-maccatalyst",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\jonmg\\projects\\.net projets\\Nuget\\SalamanderBlazor\\SalamanderBlazor.csproj": {
+              "projectPath": "C:\\Users\\jonmg\\projects\\.net projets\\Nuget\\SalamanderBlazor\\SalamanderBlazor.csproj"
+            }
+          }
         },
         "net6.0-windows10.0.19041": {
           "targetAlias": "net6.0-windows10.0.19041.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\jonmg\\projects\\.net projets\\Nuget\\SalamanderBlazor\\SalamanderBlazor.csproj": {
+              "projectPath": "C:\\Users\\jonmg\\projects\\.net projets\\Nuget\\SalamanderBlazor\\SalamanderBlazor.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -38013,10 +37629,6 @@
           "MudBlazor": {
             "target": "Package",
             "version": "[6.0.14, )"
-          },
-          "SalamanderBlazor": {
-            "target": "Package",
-            "version": "[1.0.0, )"
           }
         },
         "imports": [
@@ -38085,10 +37697,6 @@
             "target": "Package",
             "version": "[6.0.14, )"
           },
-          "SalamanderBlazor": {
-            "target": "Package",
-            "version": "[1.0.0, )"
-          },
           "System.Runtime.InteropServices.NFloat.Internal": {
             "target": "Package",
             "version": "[6.0.1, )",
@@ -38146,10 +37754,6 @@
           "MudBlazor": {
             "target": "Package",
             "version": "[6.0.14, )"
-          },
-          "SalamanderBlazor": {
-            "target": "Package",
-            "version": "[1.0.0, )"
           },
           "System.Runtime.InteropServices.NFloat.Internal": {
             "target": "Package",
@@ -38215,10 +37819,6 @@
           "MudBlazor": {
             "target": "Package",
             "version": "[6.0.14, )"
-          },
-          "SalamanderBlazor": {
-            "target": "Package",
-            "version": "[1.0.0, )"
           }
         },
         "imports": [
@@ -38293,13 +37893,5 @@
         "#import": []
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Your request could not be authenticated by the GitHub Packages service. Please ensure your access token is valid and has the appropriate scopes configured."
-    }
-  ]
+  }
 }

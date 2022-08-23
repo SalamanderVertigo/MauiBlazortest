@@ -1,9 +1,38 @@
 ﻿@page "/"
+@using SalamanderBlazor.Editors
+@using SalamanderBlazor.Components
+@using SalamanderBlazor.ViewModels
 
 <h1>Hello, world!</h1>
 
 Welcome to your new app.
 
 <Salamander />
+<SlmTextInput @bind-FieldDataSource="@TextString" />
+
+<div>@TextString</div>
+
+<DataRow Data="@_pageHeaders"/>
 
 <SurveyPrompt Title="How is Blazor working for you?" />
+
+@code {
+    public string TextString;
+
+    public DataRowVm _pageHeaders = new DataRowVm()
+    {
+        Id = 001,
+        IsMenuVisible = false,
+        CardHeaders = new List<Header>()
+        {
+            new Header() {Value = "Loc Num", IsOnMobile = true},
+            new Header() {Value = "Loc Name", IsOnMobile = true},
+            new Header() {Value = "Op Officer", IsOnMobile = true},
+            new Header() {Value = "Prime Approver", IsOnMobile = true},
+            new Header() {Value = "Merch Asst", IsOnMobile = false},
+            new Header() {Value = "Prime Contact", IsOnMobile = false},
+            new Header() {Value = "Controller", IsOnMobile = false},
+            new Header() {Value = "Menu", IsOnMobile = true }
+        }
+    };
+}

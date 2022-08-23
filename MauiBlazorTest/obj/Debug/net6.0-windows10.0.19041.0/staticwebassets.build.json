@@ -1,17 +1,36 @@
 {
   "Version": 1,
-  "Hash": "cBfWgSNLw3qVmzmGaVlGSaqHOMeMV1W5JcboI8IA4wo=",
+  "Hash": "ORPBviwjSkRKwqurT2CEZALlZmD+4Ec71HA5Ee9fv1U=",
   "Source": "MauiBlazorTest",
   "BasePath": "/",
   "Mode": "Root",
   "ManifestType": "Build",
-  "ReferencedProjectsConfiguration": [],
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\jonmg\\projects\\.net projets\\Nuget\\SalamanderBlazor\\SalamanderBlazor.csproj",
+      "Version": 2,
+      "Source": "SalamanderBlazor",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "TargetFramework;RuntimeIdentifier",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "TargetFramework;RuntimeIdentifier"
+    }
+  ],
   "DiscoveryPatterns": [
     {
       "Name": "MauiBlazorTest\\wwwroot",
       "Source": "MauiBlazorTest",
       "ContentRoot": "C:\\Users\\jonmg\\projects\\.net projets\\MauiBlazor\\MauiBlazorTest\\MauiBlazorTest\\wwwroot\\",
       "BasePath": "/",
+      "Pattern": "**"
+    },
+    {
+      "Name": "SalamanderBlazor\\wwwroot",
+      "Source": "SalamanderBlazor",
+      "ContentRoot": "C:\\Users\\jonmg\\projects\\.net projets\\Nuget\\SalamanderBlazor\\wwwroot\\",
+      "BasePath": "_content/SalamanderBlazor",
       "Pattern": "**"
     }
   ],
@@ -49,57 +68,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\jonmg\\.nuget\\packages\\mudblazor\\6.0.14\\staticwebassets\\MudBlazor.min.js"
-    },
-    {
-      "Identity": "C:\\Users\\jonmg\\.nuget\\packages\\salamanderblazor\\1.0.0\\staticwebassets\\background.png",
-      "SourceId": "SalamanderBlazor",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\jonmg\\.nuget\\packages\\salamanderblazor\\1.0.0\\staticwebassets\\",
-      "BasePath": "_content/SalamanderBlazor",
-      "RelativePath": "background.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\jonmg\\.nuget\\packages\\salamanderblazor\\1.0.0\\staticwebassets\\background.png"
-    },
-    {
-      "Identity": "C:\\Users\\jonmg\\.nuget\\packages\\salamanderblazor\\1.0.0\\staticwebassets\\exampleJsInterop.js",
-      "SourceId": "SalamanderBlazor",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\jonmg\\.nuget\\packages\\salamanderblazor\\1.0.0\\staticwebassets\\",
-      "BasePath": "_content/SalamanderBlazor",
-      "RelativePath": "exampleJsInterop.js",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\jonmg\\.nuget\\packages\\salamanderblazor\\1.0.0\\staticwebassets\\exampleJsInterop.js"
-    },
-    {
-      "Identity": "C:\\Users\\jonmg\\.nuget\\packages\\salamanderblazor\\1.0.0\\staticwebassets\\SalamanderBlazor.bundle.scp.css",
-      "SourceId": "SalamanderBlazor",
-      "SourceType": "Package",
-      "ContentRoot": "C:\\Users\\jonmg\\.nuget\\packages\\salamanderblazor\\1.0.0\\staticwebassets\\",
-      "BasePath": "_content/SalamanderBlazor",
-      "RelativePath": "SalamanderBlazor.bundle.scp.css",
-      "AssetKind": "All",
-      "AssetMode": "Reference",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "ScopedCss",
-      "AssetTraitValue": "ProjectBundle",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\jonmg\\.nuget\\packages\\salamanderblazor\\1.0.0\\staticwebassets\\SalamanderBlazor.bundle.scp.css"
     },
     {
       "Identity": "C:\\Users\\jonmg\\projects\\.net projets\\MauiBlazor\\MauiBlazorTest\\MauiBlazorTest\\obj\\Debug\\net6.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\MauiBlazorTest.styles.css",
@@ -372,6 +340,57 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\jonmg\\projects\\.net projets\\Nuget\\SalamanderBlazor\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SalamanderBlazor.bundle.scp.css",
+      "SourceId": "SalamanderBlazor",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\jonmg\\projects\\.net projets\\Nuget\\SalamanderBlazor\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/SalamanderBlazor",
+      "RelativePath": "SalamanderBlazor.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\jonmg\\projects\\.net projets\\Nuget\\SalamanderBlazor\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SalamanderBlazor.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\jonmg\\projects\\.net projets\\Nuget\\SalamanderBlazor\\wwwroot\\background.png",
+      "SourceId": "SalamanderBlazor",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\jonmg\\projects\\.net projets\\Nuget\\SalamanderBlazor\\wwwroot\\",
+      "BasePath": "_content/SalamanderBlazor",
+      "RelativePath": "background.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\background.png"
+    },
+    {
+      "Identity": "C:\\Users\\jonmg\\projects\\.net projets\\Nuget\\SalamanderBlazor\\wwwroot\\exampleJsInterop.js",
+      "SourceId": "SalamanderBlazor",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\jonmg\\projects\\.net projets\\Nuget\\SalamanderBlazor\\wwwroot\\",
+      "BasePath": "_content/SalamanderBlazor",
+      "RelativePath": "exampleJsInterop.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\exampleJsInterop.js"
     }
   ]
 }

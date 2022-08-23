@@ -50,8 +50,15 @@
     </ItemGroup>
 
     <ItemGroup>
+      <Content Remove="C:\Users\jonmg\.nuget\packages\salamanderblazor\1.0.1\contentFiles\any\net6.0\NuGet.Config" />
+    </ItemGroup>
+
+    <ItemGroup>
       <PackageReference Include="MudBlazor" Version="6.0.14" />
-      <PackageReference Include="SalamanderBlazor" Version="1.0.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\..\..\Nuget\SalamanderBlazor\SalamanderBlazor.csproj" />
     </ItemGroup>
 
 </Project>
